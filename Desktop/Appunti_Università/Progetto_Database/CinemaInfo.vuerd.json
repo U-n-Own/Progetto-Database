@@ -1,0 +1,168 @@
+{
+  "canvas": {
+    "width": 2000,
+    "height": 2000,
+    "scrollTop": 0,
+    "scrollLeft": 0,
+    "show": {
+      "tableComment": true,
+      "columnComment": true,
+      "columnDataType": true,
+      "columnDefault": true,
+      "columnAutoIncrement": true,
+      "columnPrimaryKey": true,
+      "columnUnique": true,
+      "columnNotNull": true,
+      "relationship": true
+    },
+    "database": "PostgreSQL",
+    "databaseName": "CinemaInfo",
+    "canvasType": "ERD",
+    "language": "graphql",
+    "tableCase": "pascalCase",
+    "columnCase": "camelCase"
+  },
+  "table": {
+    "tables": [
+      {
+        "name": "",
+        "comment": "",
+        "columns": [],
+        "id": "5cb1912d-2811-4afd-92e7-4d4b69b1395b",
+        "ui": {
+          "active": false,
+          "top": 228.64000490722677,
+          "left": 714.5600178161628,
+          "widthName": 60,
+          "widthComment": 60,
+          "zIndex": 8
+        }
+      },
+      {
+        "name": "",
+        "comment": "",
+        "columns": [
+          {
+            "name": "",
+            "comment": "",
+            "dataType": "",
+            "default": "0",
+            "id": "40045ffd-4c48-460a-9523-08117333186b",
+            "option": {
+              "autoIncrement": false,
+              "primaryKey": false,
+              "unique": false,
+              "notNull": false
+            },
+            "ui": {
+              "active": false,
+              "pk": false,
+              "fk": false,
+              "pfk": false,
+              "widthName": 60,
+              "widthComment": 60,
+              "widthDataType": 60,
+              "widthDefault": 60
+            }
+          }
+        ],
+        "id": "1c395da6-8530-409b-a5f6-6a5ec5415498",
+        "ui": {
+          "active": true,
+          "top": 239.20000441284228,
+          "left": 248.9599981567382,
+          "widthName": 60,
+          "widthComment": 60,
+          "zIndex": 75
+        }
+      }
+    ],
+    "tableFocus": {
+      "focusName": true,
+      "focusComment": false,
+      "focusColumns": [
+        {
+          "selected": false,
+          "focusName": false,
+          "focusDataType": false,
+          "focusNotNull": false,
+          "focusDefault": false,
+          "focusComment": false,
+          "column": {
+            "name": "",
+            "comment": "",
+            "dataType": "",
+            "default": "0",
+            "id": "40045ffd-4c48-460a-9523-08117333186b",
+            "option": {
+              "autoIncrement": false,
+              "primaryKey": false,
+              "unique": false,
+              "notNull": false
+            },
+            "ui": {
+              "active": false,
+              "pk": false,
+              "fk": false,
+              "pfk": false,
+              "widthName": 60,
+              "widthComment": 60,
+              "widthDataType": 60,
+              "widthDefault": 60
+            }
+          }
+        }
+      ],
+      "currentFocusTable": true,
+      "currentColumn": null,
+      "table": {
+        "name": "",
+        "comment": "",
+        "columns": [
+          {
+            "name": "",
+            "comment": "",
+            "dataType": "",
+            "default": "0",
+            "id": "40045ffd-4c48-460a-9523-08117333186b",
+            "option": {
+              "autoIncrement": false,
+              "primaryKey": false,
+              "unique": false,
+              "notNull": false
+            },
+            "ui": {
+              "active": false,
+              "pk": false,
+              "fk": false,
+              "pfk": false,
+              "widthName": 60,
+              "widthComment": 60,
+              "widthDataType": 60,
+              "widthDefault": 60
+            }
+          }
+        ],
+        "id": "1c395da6-8530-409b-a5f6-6a5ec5415498",
+        "ui": {
+          "active": true,
+          "top": 239.20000441284228,
+          "left": 248.9599981567382,
+          "widthName": 60,
+          "widthComment": 60,
+          "zIndex": 75
+        }
+      }
+    },
+    "edit": null,
+    "copyColumns": [],
+    "columnDraggable": null
+  },
+  "memo": {
+    "memos": []
+  },
+  "relationship": {
+    "relationships": [],
+    "draw": null
+  }
+}
